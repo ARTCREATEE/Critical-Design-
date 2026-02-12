@@ -20,7 +20,12 @@ body {
 	height: 400px;
 	
 }
+.backgroundImage:hover { 
+    background-image: url(../image/clock.png); 
+	cursor: crosshair;
+}
 
 h1 {
 font-family: "Alegreya", serif;
+	font-size: 4em;
 }
